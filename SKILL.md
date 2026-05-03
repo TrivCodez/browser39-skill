@@ -1,6 +1,8 @@
+---
 name: browser39-websearch
-description: Use this skill whenever you need to search the web using browser39's MCP tools. Handles CAPTCHA avoidance via automatic search engine rotation and optimizes browsing speed using browser39's content preselection system. Triggers when using browser39_search, browser39_fetch, or any browser39 tool to retrieve web content. Replaces naive single-engine searches with a resilient, token-efficient strategy.
-
+description: Use this skill whenever you need to search the web using browser39's MCP tools. Handles CAPTCHA avoidance via automatic search engine rotation and optimises browsing speed using browser39's content preselection system. Triggers when using browser39_search, browser39_fetch, or any browser39 tool to retrieve web content. Replaces naive single-engine searches with a resilient, token-efficient strategy.
+license: MIT
+version: 1.0.0
 ---
 
 # browser39 Web Search Skill
